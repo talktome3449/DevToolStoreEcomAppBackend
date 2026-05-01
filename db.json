@@ -1,0 +1,211 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Angular Admin Dashboard Pro",
+      "slug": "angular-admin-dashboard-pro",
+      "price": 1499,
+      "oldPrice": 1999,
+      "category": "Dashboard",
+      "badge": "Best Seller",
+      "rating": 4.8,
+      "reviews": 124,
+      "stock": 18,
+      "featured": true,
+      "trending": true,
+      "newArrival": false,
+      "popular": true,
+      "description": "Premium Angular admin dashboard template with charts, analytics widgets, auth screens, and dark mode support.",
+      "tags": ["Angular", "Dashboard", "Admin", "Analytics"],
+      "image": "https://res.cloudinary.com/dwjoms8mk/image/upload/v1777576734/angular_admin_dashboard_pro_nt2ogl.png",
+      "gallery": [
+        "https://res.cloudinary.com/YOUR_CLOUD_NAME/image/upload/w_900,h_600,c_fill/devstore/angular-dashboard-pro.webp",
+        "https://res.cloudinary.com/YOUR_CLOUD_NAME/image/upload/w_900,h_600,c_fill/devstore/angular-dashboard-pro-2.webp"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "React SaaS Landing Kit",
+      "slug": "react-saas-landing-kit",
+      "price": 999,
+      "oldPrice": 1299,
+      "category": "Landing Page",
+      "badge": "Popular",
+      "rating": 4.7,
+      "reviews": 96,
+      "stock": 22,
+      "featured": true,
+      "trending": true,
+      "newArrival": false,
+      "popular": false,
+      "description": "Modern SaaS landing page kit with pricing tables, hero banners, testimonials, and responsive sections.",
+      "tags": ["React", "Landing Page", "Startup", "SaaS"],
+      "image": "https://res.cloudinary.com/dwjoms8mk/image/upload/v1777576736/react_saas_landing_kit_g6v4r5.png",
+      "gallery": [
+        "https://res.cloudinary.com/YOUR_CLOUD_NAME/image/upload/w_900,h_600,c_fill/devstore/react-saas-landing-kit.webp"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Dark Analytics UI Pack",
+      "slug": "dark-analytics-ui-pack",
+      "price": 1299,
+      "oldPrice": 1599,
+      "category": "UI Kit",
+      "badge": "Trending",
+      "rating": 4.9,
+      "reviews": 81,
+      "stock": 14,
+      "featured": true,
+      "trending": true,
+      "newArrival": true,
+      "popular": true,
+      "description": "Dark theme analytics UI kit with charts, KPI cards, finance widgets, and responsive layouts.",
+      "tags": ["UI Kit", "Dark Mode", "Analytics", "Dashboard"],
+      "image": "https://res.cloudinary.com/dwjoms8mk/image/upload/v1777576735/dark_analytics_ui_pack_s0s8vp.png",
+      "gallery": [
+        "https://res.cloudinary.com/YOUR_CLOUD_NAME/image/upload/w_900,h_600,c_fill/devstore/dark-analytics-ui-pack.webp"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Portfolio Starter Pro",
+      "slug": "portfolio-starter-pro",
+      "price": 799,
+      "oldPrice": 1099,
+      "category": "Portfolio",
+      "badge": "Hot",
+      "rating": 4.6,
+      "reviews": 63,
+      "stock": 30,
+      "featured": false,
+      "trending": true,
+      "newArrival": false,
+      "popular": false,
+      "description": "Professional portfolio starter template for developers, designers, and freelancers.",
+      "tags": ["Portfolio", "Resume", "Developer", "Showcase"],
+      "image": "https://res.cloudinary.com/dwjoms8mk/image/upload/v1777576736/portfolio_starter_pro_huzfsh.png",
+      "gallery": [
+        "https://res.cloudinary.com/YOUR_CLOUD_NAME/image/upload/w_900,h_600,c_fill/devstore/portfolio-starter-pro.webp"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Mobile App Wireframe Kit",
+      "slug": "mobile-app-wireframe-kit",
+      "price": 899,
+      "oldPrice": 1199,
+      "category": "Mobile UI",
+      "badge": "New",
+      "rating": 4.7,
+      "reviews": 44,
+      "stock": 26,
+      "featured": false,
+      "trending": false,
+      "newArrival": true,
+      "popular": false,
+      "description": "Complete mobile wireframe kit for fintech, ecommerce, productivity, and social apps.",
+      "tags": ["Mobile", "Wireframe", "App Design", "UX"],
+      "image": "https://res.cloudinary.com/dwjoms8mk/image/upload/v1777576737/mobile_app_wireframe_kit_txiwpb.png",
+      "gallery": [
+        "https://res.cloudinary.com/YOUR_CLOUD_NAME/image/upload/w_900,h_600,c_fill/devstore/mobile-app-wireframe-kit.webp"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Figma Component Library",
+      "slug": "figma-component-library",
+      "price": 699,
+      "oldPrice": 999,
+      "category": "Figma",
+      "badge": "Editor Choice",
+      "rating": 4.8,
+      "reviews": 72,
+      "stock": 19,
+      "featured": true,
+      "trending": false,
+      "newArrival": false,
+      "popular": true,
+      "description": "Reusable Figma component system with buttons, forms, modals, cards, and dashboard widgets.",
+      "tags": ["Figma", "Components", "Design System", "UI"],
+      "image": "https://res.cloudinary.com/dwjoms8mk/image/upload/v1777576736/figma_library_component_prdphf.png",
+      "gallery": [
+        "https://res.cloudinary.com/YOUR_CLOUD_NAME/image/upload/w_900,h_600,c_fill/devstore/figma-component-library.webp"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Startup Launch Bundle",
+      "slug": "startup-launch-bundle",
+      "price": 1599,
+      "oldPrice": 2299,
+      "category": "Bundle",
+      "badge": "Limited",
+      "rating": 4.9,
+      "reviews": 58,
+      "stock": 11,
+      "featured": true,
+      "trending": true,
+      "newArrival": true,
+      "popular": false,
+      "description": "Complete startup bundle with landing page, dashboard, email templates, and social creatives.",
+      "tags": ["Startup", "Bundle", "Marketing", "Launch"],
+      "image": "https://res.cloudinary.com/dwjoms8mk/image/upload/v1777576738/startup_launch_bundle_pylbcy.png",
+      "gallery": [
+        "https://res.cloudinary.com/YOUR_CLOUD_NAME/image/upload/w_900,h_600,c_fill/devstore/startup-launch-bundle.webp"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Ecommerce UI Master Kit",
+      "slug": "ecommerce-ui-master-kit",
+      "price": 1399,
+      "oldPrice": 1799,
+      "category": "Ecommerce",
+      "badge": "Premium",
+      "rating": 4.8,
+      "reviews": 102,
+      "stock": 17,
+      "featured": true,
+      "trending": true,
+      "newArrival": false,
+      "popular": true,
+      "description": "High-converting ecommerce UI kit with product pages, carts, checkout flows, and customer dashboards.",
+      "tags": ["Ecommerce", "UI Kit", "Checkout", "Store"],
+      "image": "https://res.cloudinary.com/dwjoms8mk/image/upload/v1777576736/ecommerce_ui_master_kit_i68xao.png",
+      "gallery": [
+        "https://res.cloudinary.com/YOUR_CLOUD_NAME/image/upload/w_900,h_600,c_fill/devstore/ecommerce-ui-master-kit.webp"
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin User",
+      "email": "admin@devstore.com",
+      "password": "Pass@123",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "End User",
+      "email": "user@devstore.com",
+      "password": "Pass@123",
+      "role": "user"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "userId": 2,
+      "items": [
+        {
+          "productId": 1,
+          "qty": 1
+        }
+      ],
+      "total": 1499,
+      "status": "Paid"
+    }
+  ]
+}

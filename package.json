@@ -1,0 +1,16 @@
+{
+  "name": "devtoolstoreecomappbackend",
+  "version": "1.0.0",
+  "description": "json server integration for dev tool store.",
+  "license": "ISC",
+  "author": "Deepak Agrawal",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server --watch db.json --port 3000"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0-beta.15"
+  }
+}
